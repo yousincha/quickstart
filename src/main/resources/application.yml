@@ -10,6 +10,7 @@ spring:
       username: sa
       password:
 
+# mybatis 설정 주석 처리
 mybatis:
   mapper-locations:
     - mappers/*.xml
